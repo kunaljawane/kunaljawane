@@ -1,3 +1,4 @@
+![logo](https://github.com/kunaljawane/kunaljawane/blob/main/png_20230626_232650_0000.png)
 <h1 align="center">Hi 👋, I'm Kunal Jawane</h1>
 <h3 align="center">🎓 International Institute of Information Technology I2IT, Pune | BE Computer Engineering</h3>
 
