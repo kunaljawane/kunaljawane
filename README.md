@@ -1,4 +1,4 @@
-![logo](https://github.com/kunaljawane/kunaljawane/blob/main/png_20230626_232650_0000.png)
+![logo](https://github.com/kunaljawane/kunaljawane/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Kunal Jawane</h1>
 <h3 align="center">🎓 International Institute of Information Technology I2IT, Pune | BE Computer Engineering</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952ymgyftdiat1g19o5op2ybcdq1tf3y7irwfq3rog7&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
